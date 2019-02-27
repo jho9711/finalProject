@@ -10,4 +10,3 @@ public class BoardPageController {
 		return "menu1";
 	}
 }
-//update
